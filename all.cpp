@@ -6,4 +6,16 @@ void banana() {
   function();
   function();
   function();
+ 
+  function();
+     // tipi::cache::extract_pack_or_snapshot(project_.mirrored_src_dir(), settings_.target+"_platform_dir"+ project_.revision());
+
+  std::cout << "oh YEAH" << "\n";
+  ///
+  
+}
+
+int Omain(int argc, char** argv) {
+  banana();
+  return 0;
 }
